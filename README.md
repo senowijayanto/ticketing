@@ -1,3 +1,3 @@
 # Ticketing Application #
 
-## This application create with **kubernetes** stack and using microservices terminology. ##
+This application create with **kubernetes** stack and using microservices terminology.
